@@ -1,0 +1,15 @@
+.idea/
+
+.DS_Store
+.vagrant/*
+/config/
+/composer.phar
+/composer.lock
+/typo3cms
+/typo3
+/node_modules
+/.sass-cache
+/vendor/
+/var/
+/temp/
+/web/
